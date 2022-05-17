@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>449566472860-03c16f8l3gna1i0nqbf0ko5f0k6a2hju.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.449566472860-03c16f8l3gna1i0nqbf0ko5f0k6a2hju</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCJw14-aPeTWLDs0tCPkvqQPQWZ4Sgp-3w
+AIzaSyCJw14-aPeTWLDs0tCPkvqQPQWZ4Sgp-3w
+</string>
+	<key>GCM_SENDER_ID</key>
+	<string>449566472860</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.daintybox</string>
+	<key>PROJECT_ID</key>
+	<string>dainty-box</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dainty-box.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:449566472860:ios:1ab58ad06bbee8daee8b59</string>
+</dict>
+</plist>
